@@ -9,6 +9,7 @@ background: url('/fantomes.github.io/images/Fantomes(source).png') no-repeat cen
     	-moz-background-size: cover;
     	-o-background-size: cover;
     	background-size: cover;
+	background-attachment:scroll;
 }
 
 body a{
