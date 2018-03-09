@@ -12,6 +12,11 @@ background: url('/fantomes.github.io/images/Fantomes(source).png') no-repeat cen
 	background-attachment:scroll;
 }
 
+body {
+  height: 100vh;
+}
+
+
 body a{
 font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
 	font-size: 14px;
