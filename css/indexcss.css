@@ -24,9 +24,10 @@ font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Tim
 }
 
 .centercolumn {
-	width: 80%;
+	width: 50%;
 	margin: 10% auto;
 	text-align: center;
+	min-width: 600px;
 }
 
 .centercolumn a {
