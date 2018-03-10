@@ -25,7 +25,7 @@ font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Tim
 
 .centercolumn {
 	width: 50%;
-	margin: 10% auto;
+	margin: 5% auto;
 	text-align: center;
 	min-width: 600px;
 }
@@ -35,7 +35,7 @@ font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Tim
 }
 
 .maintextdiv {
-	margin-top:20%;
+	margin-top:5%;
 }
 
 .texttitle {
