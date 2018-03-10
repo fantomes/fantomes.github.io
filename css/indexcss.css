@@ -23,6 +23,11 @@ font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Tim
 	color: rgb(220,220,220);
 }
 
+hr {
+	border: none;
+	height:1px;
+}
+
 .centercolumn {
 	width: 50%;
 	margin: 2% auto;
