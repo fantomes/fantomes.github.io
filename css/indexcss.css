@@ -26,6 +26,8 @@ font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Tim
 hr {
 	border: none;
 	height:1px;
+	color: white; /* old IE */
+    	background-color: white; /* Modern Browsers */
 }
 
 .centercolumn {
