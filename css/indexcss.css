@@ -34,6 +34,10 @@ font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Tim
 	text-align:justify;
 }
 
+.mainlogo {
+	width:30%;
+}
+
 .maintextdiv {
 	margin-top:5%;
 }
